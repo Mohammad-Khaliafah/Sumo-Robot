@@ -25,10 +25,16 @@ The Sumo Robot project aims to develop a robot that can compete in sumo wrestlin
   - Adjustable range: 3-80 cm
   - Used for detecting opponents and obstacles.
   - Normally closed output configuration.
-- **Dual Micro Line Sensor ML2**: 
+- **Dual Micro Line Sensor ML2**:
+
+  ![dual-line-sensor-ml2-2131-80-B](https://github.com/user-attachments/assets/3a8ab19a-96cf-45f0-84e6-5b37bf7c1d5e)
+
   - Quantity: 4
   - Used for line tracking to detect the edge of the sumo ring.
-- **BTS7960 Motor Driver**: 
+- **BTS7960 Motor Driver**:
+
+  ![download](https://github.com/user-attachments/assets/de1259f5-b11d-40da-95ad-73a36a157b90)
+
   - Quantity: 2
   - High power motor driver for controlling the DC motors.
   - Provides high current capacity and protection features.
