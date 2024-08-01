@@ -18,6 +18,7 @@ The Sumo Robot project aims to develop a robot that can compete in sumo wrestlin
 
 ## Hardware Components
 - **E18-D80NK Infrared Obstacle Avoidance Sensor**:
+
   ![59e3e0d4-52f0-4947-9d2a-fbaa54251bd5](https://github.com/user-attachments/assets/45e8d497-4570-4c35-9939-bd4708387ece)
 
   - Quantity: 5
